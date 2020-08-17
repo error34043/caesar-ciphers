@@ -5,3 +5,8 @@
 The above is an explanation of a Caesar Cipher, courtesy [Wikipedia](https://en.wikipedia.org/wiki/Caesar_cipher).
 
 In this repo, you will find programs that take a string - be it a letter, word, sentence, or a pile of gibberish written using the Latin alphabet - and a positive/negative shift values. They will in turn give you your coded/decoded string. All the programs in this repo carry out the same basic function but are written in different programming languages as a personal practice project.
+
+## Languages the program has been written in so far
+1. JavaScript
+2. Ruby
+3. CoffeeScript (No compilers/transpilers used)
